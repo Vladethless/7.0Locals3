@@ -5222,7 +5222,7 @@ img{
 	background-color:#db2f4f;
 }
 
-.main-footer .contact-widget h6{
+.main-footer .contact-widget .like_h{
 	position:relative;
 	font-weight:600;
 	color:#243559;
@@ -5230,6 +5230,7 @@ img{
 	margin-bottom:0px;
 	padding-bottom:12px;
 	text-transform:capitalize;
+	font-size: 18px;
 }
 
 /* List Link */
