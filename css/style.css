@@ -3185,7 +3185,7 @@ img{
 	font-weight:700;
 	line-height:1.1em;
 	opacity: 0;
-	font-size:60px;
+	font-size:55px;
 	text-transform:uppercase;
 	transform: scaleY(0);
 	transform-origin: top;
@@ -3195,6 +3195,9 @@ img{
 	-o-transition: all 1000ms ease;
 	transition: all 1000ms ease;
 }
+.wow:hover {
+	fill:red !important;
+   }
 
 .banner-section .active .content-column p{
 	opacity: 1;
@@ -3679,8 +3682,8 @@ img{
 
 .service-block .inner-box .icon-box{
 	position:relative;
-	width:60px;
-	height:60px;
+	width: 80px;
+	height:80px;
 	color:#80c32f;
 	font-size:28px;
 	border-radius:10px;
